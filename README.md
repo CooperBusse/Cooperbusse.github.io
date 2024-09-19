@@ -1,3 +1,4 @@
+<!DOCTYPE html>
 <html>
   <body>
       <h1 class="title">Tree Top News </h1>
