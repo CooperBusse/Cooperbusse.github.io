@@ -1,9 +1,5 @@
 <!DOCTYPE html>
 <html>
-  <head>
-  
-    <link rel="stylesheet" href="styles.css" />
-  </head>
   <body>
       <h1 class="title">Tree Top News </h1>
       <p> Terrible crash at Darlington Speeway, driver involved in a car flip. Mystery driver wins the race, cause of 
