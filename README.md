@@ -6,7 +6,7 @@
       <p> Driver involved in dangerous engine blow up, and car flips. Poor choice of a race team, causes loss at race. Results ended with a mystery new driver, now in the playoffs.</p>
       <a href="Article.html">Article</a>
     <h2>Forcast for Your Area</h2>
-    <p> Stay up to date with you local weather so you know what to expect in the days to come.</p>
+    <p> Stay up to date with your local weather so you know what to expect in the days to come.</p>
     <a href="https://weather.com/weather/tenday/l/4b807770f7a9a68ab3236c14beec03d4f8471b97c32e6e9e972a36533e58559b" target="_blank">Your Daily Forcast</a>
   </body>
 </html>
