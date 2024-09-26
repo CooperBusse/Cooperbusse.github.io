@@ -8,5 +8,7 @@
     <h2>Forcast for Your Area</h2>
     <p> Stay up to date with your local weather so you know what to expect in the days to come.</p>
     <a href="https://weather.com/weather/tenday/l/4b807770f7a9a68ab3236c14beec03d4f8471b97c32e6e9e972a36533e58559b" target="_blank">Your Daily Forcast</a>
+    <h2> Sports Venues Around the United States
+    <a href="Gallery.html">Venue Gallery</a>
   </body>
 </html>
