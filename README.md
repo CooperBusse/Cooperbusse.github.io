@@ -9,6 +9,6 @@
       <a href="https://weather.com/weather/tenday/l/4b807770f7a9a68ab3236c14beec03d4f8471b97c32e6e9e972a36533e58559b" target="_blank">Your Daily Forcast</a>
     <h2>Sports Venues Around the United States</h2>
       <p>Venues Here.</p>
-      <a href="imagegallery.html">Venue Gallery</a>
+      <a href="Imagegallery.html">Venue Gallery</a>
   </body>
 </html>
