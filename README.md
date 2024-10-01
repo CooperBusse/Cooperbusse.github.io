@@ -12,6 +12,6 @@
       <a href="Venues.html">Venue Gallery</a>
     <h2> Which Phone?</h2>
       <p>Smartphone comparison.</p>
-      <a herf="Article.html">Which One</a>
+      <a herf="Phones.html">Which One</a>
   </body>
 </html>
