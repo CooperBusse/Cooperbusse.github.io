@@ -10,24 +10,8 @@
     <h2>Sports Venues Around the United States</h2>
       <p>Venues Here.</p>
       <a href="Venues.html">Venue Gallery</a>
+    <h2> Which Phone?</h2>
+      <p>Smartphone comparison.</p>
+      <a herf=""></a>
   </body>
-  <br>
-  <style>
-    table, tr, td {
-        border: 1px solid black;
-    }
-</style>
-
-<table>
-     <tr>
-        <td>Iphone</td>
-        <td>Samsung</td>
-        <td>Android</td>
-    </tr>
-     <tr>
-        <td>Row 2, Column 1</td>
-        <td>Row 2, Column 2</td>
-        <td>Row 2, Column 3</td>
-    </tr>
-</table>
 </html>
