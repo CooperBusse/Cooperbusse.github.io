@@ -11,6 +11,7 @@
       <p>Venues Here.</p>
       <a href="Venues.html">Venue Gallery</a>
   </body>
+  <br>
   <style>
     table, tr, td {
         border: 1px solid black;
