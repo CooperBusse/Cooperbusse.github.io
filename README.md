@@ -20,9 +20,9 @@
 
 <table>
      <tr>
-        <td>Row 1, Iphone</td>
-        <td>Row 1, Samsung</td>
-        <td>Row 1, Android</td>
+        <td>Iphone</td>
+        <td>Samsung</td>
+        <td>Android</td>
     </tr>
      <tr>
         <td>Row 2, Column 1</td>
