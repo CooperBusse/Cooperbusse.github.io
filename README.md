@@ -11,4 +11,22 @@
       <p>Venues Here.</p>
       <a href="Venues.html">Venue Gallery</a>
   </body>
+  <style>
+    table, tr, td {
+        border: 1px solid black;
+    }
+</style>
+
+<table>
+     <tr>
+        <td>Row 1, Iphone</td>
+        <td>Row 1, Samsung</td>
+        <td>Row 1, Android</td>
+    </tr>
+     <tr>
+        <td>Row 2, Column 1</td>
+        <td>Row 2, Column 2</td>
+        <td>Row 2, Column 3</td>
+    </tr>
+</table>
 </html>
